@@ -1,0 +1,14 @@
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\pr.r.10\bin\Debug\pr.r.10.exe.config
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\pr.r.10\bin\Debug\pr.r.10.exe
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\pr.r.10\bin\Debug\pr.r.10.pdb
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\pr.r.10\obj\Debug\pr.r.10.csproj.AssemblyReference.cache
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\pr.r.10\obj\Debug\pr.r.10.csproj.CoreCompileInputs.cache
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\pr.r.10\obj\Debug\pr.r.10.exe
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\pr.r.10\obj\Debug\pr.r.10.pdb
+D:\simss\projectssss\pr.r.10-main\pr.r.10-main\pr.r.10\bin\Debug\pr.r.10.exe.config
+D:\simss\projectssss\pr.r.10-main\pr.r.10-main\pr.r.10\bin\Debug\pr.r.10.exe
+D:\simss\projectssss\pr.r.10-main\pr.r.10-main\pr.r.10\bin\Debug\pr.r.10.pdb
+D:\simss\projectssss\pr.r.10-main\pr.r.10-main\pr.r.10\obj\Debug\pr.r.10.csproj.AssemblyReference.cache
+D:\simss\projectssss\pr.r.10-main\pr.r.10-main\pr.r.10\obj\Debug\pr.r.10.csproj.CoreCompileInputs.cache
+D:\simss\projectssss\pr.r.10-main\pr.r.10-main\pr.r.10\obj\Debug\pr.r.10.exe
+D:\simss\projectssss\pr.r.10-main\pr.r.10-main\pr.r.10\obj\Debug\pr.r.10.pdb
